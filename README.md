@@ -27,7 +27,7 @@ Acredito que uma base sólida em arquitetura, organização de código e boas pr
 ## 🛠 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,linux,docker,jenkins,mysql,mongodb,react,vite,javascript,wordpress" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,linux,docker,jenkins,tomcat,mysql,mongodb,react,vite,javascript,wordpress" />
 </p>
 
 ---
