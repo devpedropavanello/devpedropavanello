@@ -42,4 +42,4 @@ Busco compreender não apenas como as soluções funcionam, mas também os princ
 
 ## 📫 Contato
 
-🔗 Instagram: https://www.instagram.com/pavanellodev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+🔗 Instagram: https://www.instagram.com/pavanellodev
