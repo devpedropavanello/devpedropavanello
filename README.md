@@ -1,25 +1,19 @@
 # Pedro Pavanello
 
-## Desenvolvedor Full Stack Júnior | Foco em Backend com Java
+`Desenvolvedor Full Stack Júnior | Foco em Backend com Java`
 
-Sou Desenvolvedor Full Stack Júnior na FUSVE e graduando em Engenharia de Software pela Univassouras.
+Sou Desenvolvedor Full Stack Júnior na FUSVE e graduando em Engenharia de Software pela Univassouras. Tenho direcionamento técnico em Backend com Java, com foco na construção de aplicações organizadas, escaláveis e sustentáveis. Atuo no desenvolvimento e manutenção de sistemas, aplicações web e APIs, além de rotinas relacionadas a versionamento, Linux e CI/CD. Busco evolução contínua, boas práticas de desenvolvimento e uma base sólida para crescer como engenheiro de software com especialização em Backend.
 
-Tenho foco estratégico em Backend com Java, buscando evoluir na construção de aplicações robustas, organizadas, escaláveis e sustentáveis. Atuo com desenvolvimento e manutenção de sistemas, APIs, aplicações web e rotinas ligadas a versionamento, servidores Linux e integração contínua.
+---
 
-Busco sempre escrever código com clareza, organização e boas práticas, mantendo uma visão Full Stack com especial atenção ao ecossistema Java.
+## 🧰 Languages and Tools
 
-## Stack e Ferramentas
-
-### Principal
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,git,linux,mysql,mongodb,jenkins" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,linux,mysql,mongodb,jenkins,docker,react,vite,javascript,wordpress" />
 </p>
 
-### Também utilizo
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,react,vite,javascript,wordpress" />
-</p>
+---
 
-## Contato
+## 📫 Contact
 
-🔗 LinkedIn: https://www.linkedin.com/in/pedro-pavanello
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro%20Pavanello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pavanello)
