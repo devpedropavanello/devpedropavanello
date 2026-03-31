@@ -2,7 +2,7 @@
 
 `Desenvolvedor Full Stack Júnior | Foco em Backend com Java`
 
-Sou Desenvolvedor Full Stack Júnior na FUSVE e graduando em Engenharia de Software pela Univassouras. Tenho direcionamento técnico em Backend com Java, com foco na construção de aplicações organizadas, escaláveis e sustentáveis. Atuo no desenvolvimento e manutenção de sistemas, aplicações web e APIs, além de rotinas relacionadas a versionamento, Linux e CI/CD. Busco evolução contínua, boas práticas de desenvolvimento e uma base sólida para crescer como engenheiro de software com especialização em Backend.
+Sou desenvolvedor de software com foco em Backend com Java, comprometido com a construção de soluções robustas, organizadas e escaláveis. Tenho como prioridade escrever código limpo, reutilizável e sustentável, buscando sempre unir qualidade técnica, clareza estrutural e evolução contínua. Meu objetivo é crescer como engenheiro de software com base sólida em boas práticas, arquitetura e desenvolvimento de sistemas que resolvam problemas reais com eficiência. Além da parte técnica, valorizo colaboração, troca de conhecimento e aprendizado constante como pilares da minha evolução profissional.
 
 ---
 
