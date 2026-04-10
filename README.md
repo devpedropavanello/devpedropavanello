@@ -1,6 +1,6 @@
 # Pedro Pavanello
 
-`Desenvolvedor Full Stack Júnior | Foco em Backend com Java`
+`Desenvolvedor de Software Júnior | Foco em Backend com Java`
 
 Sou desenvolvedor de software com foco em Backend com Java, comprometido com a construção de soluções robustas, organizadas e escaláveis. Tenho como prioridade escrever código limpo, reutilizável e sustentável, buscando sempre unir qualidade técnica, clareza estrutural e evolução contínua. Meu objetivo é crescer como engenheiro de software com base sólida em boas práticas, arquitetura e desenvolvimento de sistemas que resolvam problemas reais com eficiência. Além da parte técnica, valorizo colaboração, troca de conhecimento e aprendizado constante como pilares da minha evolução profissional.
 
