@@ -9,7 +9,7 @@ Sou desenvolvedor de software com foco em Backend com Java, comprometido com a c
 ## 🧰 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,git,gitlab,linux,mysql,mongodb,postgresql,mariadb,jenkins,docker,react,vite,javascript,python,wordpress,n8n,angular" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,gitlab,linux,mysql,mongodb,postgresql,microsoftsql,jenkins,docker,react,vite,javascript,python,wordpress,angular,postman,jira" />
 </p>
 
 ---
