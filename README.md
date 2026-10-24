@@ -9,7 +9,7 @@
   />
 </p>
 
-Engenheiro de Software Júnior com foco em **Backend Java**, atuando no desenvolvimento, manutenção e evolução de sistemas internos, aplicações web e **APIs REST com Java e Spring Boot**. Minha atuação envolve implementação de regras de negócio, integração entre sistemas, persistência de dados, testes automatizados, pipelines **CI/CD**, deploy, monitoramento e sustentação de aplicações em ambientes **Linux**. Também desenvolvo soluções com **Python**, incluindo aplicações web, scripts e automações, enquanto aprofundo meus conhecimentos em Backend Java, Arquitetura de Software, DDD, Clean Architecture, microsserviços, observabilidade e sistemas distribuídos.
+Engenheiro de Software Júnior com foco em **Backend Java**, atuando no desenvolvimento, manutenção e evolução de sistemas internos, aplicações web e **APIs REST com Java e Spring Boot**. Minha atuação envolve implementação de regras de negócio, integração entre sistemas, persistência de dados, testes automatizados, pipelines **CI/CD**, deploy, monitoramento e sustentação de aplicações em ambientes **Linux**. Também desenvolvo soluções com **Python**, incluindo aplicações web, scripts e automações, enquanto aprofundo meus conhecimentos em Backend Java, Arquitetura de Software, DDD, Clean Architecture, Arquitetura Hexagonal, microsserviços, observabilidade e sistemas distribuídos.
 
 ---
 
